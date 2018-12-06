@@ -2,4 +2,4 @@
 
 # Backbrace #
 
-Backbrace is a development framework for building progressive web applications using Javascript and JSON.
+Backbrace is a development framework for building progressive web applications using Javascript and JSON. Yo
